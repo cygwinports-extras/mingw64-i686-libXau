@@ -3,7 +3,7 @@ ORIG_PN="libXau"
 inherit xorg cross
 
 NAME="mingw64-i686-libXau"
-VERSION=1.0.7
+VERSION=1.0.8
 RELEASE=1
 CATEGORY="Devel"
 SUMMARY="X11 Xauthority library for Win32 toolchain"
